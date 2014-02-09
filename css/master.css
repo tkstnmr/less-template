@@ -1,0 +1,26 @@
+@charset 'utf-8';
+html {
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%;
+  -moz-text-size-adjust: 100%;
+  -ms-text-size-adjust: 100%;
+  -o-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+body {
+  background: #f2f2f2;
+  color: #1a1a1a;
+  font: 14px/1.6 Helvetica, Arial, 'ヒラギノ角ゴ Pro W3', Hiragino Kaku Gothic Pro, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+a {
+  color: #0000ff;
+}
+a:hover,
+a:active {
+  color: #0000cc;
+}
+a img {
+  border: none;
+}
